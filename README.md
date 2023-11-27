@@ -1,12 +1,12 @@
-# Product Sales Data Analysis - RND4Impact
-Data Analysis of products to identify key trends for profit maximization
+# Product Sales Database - RND4Impact
+Converting a List Data (Google Sheets) to a Relational Database
 
-Data Source: [Click Here](https://docs.google.com/spreadsheets/d/1ofVPSnHqFGABXzdxrDk8ZBbzD3qRTaBQ/edit#gid=1220511058)
-
+Data Source (Google Sheets): [Click Here](https://docs.google.com/spreadsheets/d/1ofVPSnHqFGABXzdxrDk8ZBbzD3qRTaBQ/edit#gid=1220511058)
 
 Main goal: Convert a google sheets columns to a relational database in MySQL Workbench
 
-Objective: Excel in creating databases with raw data provided in column format. Identify relationships between each variable and create ERM Diagram
+To avoid redundancy and anomalies present with a list data, this project's purpose is to convert the sales data into an efficient relational database using MySQL Workbench. This data can further be used for convenient data analysis and data visualization.
 
+Objective: Transform List Data to Relational Database, Show understanding of data cleaning and data mining, Identify relationships between variables through Functional Dependencies, Create a polished ER Diagram to visually show the importance of each table.
 
-Using Google Sheets, MySQL, Python and Tableau for project completion
+Skills: Google Sheets, Microsoft Excel, SQL, MySQL Workbench
